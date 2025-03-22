@@ -11,8 +11,7 @@ O desafio visa consolidar o conhecimento apresentado em sala de aula, abordando 
 - Issues
 - Pull requests
 - Discussions
-- Notifications
-- Wikis
+- GitHub.dev
 
 ## 🤖 Tecnologias Utilizadas:
 
@@ -21,9 +20,7 @@ Para realização desse desafio, eu utilizei a seguinte tecnologia:
 - **GitHub:** Plataforma de hospedagem de código-fonte e colaboração de desenvolvimento de software essencial para desenvolvedores colaborarem, compartilharem código e automatizarem seus fluxos de trabalho.
 - **Git:** Ferramenta de controle de versão distribuída que permite rastrear alterações no código-fonte, colaborar eficientemente em equipes e manter o histórico completo de um projeto.
 - **Markdown:** Linguagem de marcação leve que possibilita a criação de documentação clara e formatada, sendo amplamente utilizada para arquivos README e outras documentações em repositórios.
-- GitHub.dev: 
-
-Aqui estão algumas de suas principais funcionalidades:
+- **GitHub.dev:** Ambiente de edição de código diretamente no navegador, acessível através de qualquer repositório ou pull request no GitHub ao pressionar a tecla ` . `. Ele permite realizar edições rápidas, navegar pelo código e contribuir de forma prática, sem a necessidade de configurar um editor localmente.
 
 ## 🧐 Processo de Criação
 
