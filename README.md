@@ -56,7 +56,7 @@ Aqui estão algumas de suas principais funcionalidades:
 
   Adicionei "Closes #1" na descrição para linkar a issue correspondente e em seguida conclui o Pull Request clicando em “ merge pull request “.
 
-| ![PullRequest]() |
+| ![PullRequest](https://github.com/lirazootech/desafio-github-markdown/blob/main/src/assets/image%20copy.png) |
 |:--:|
 Com a utilização de um Pull request para o fechamento de uma Issue criada anteriormente, é possivel identificar a diferença entre Issue e Pull Request.
 
@@ -86,16 +86,6 @@ Com a utilização de um Pull request para o fechamento de uma Issue criada ante
 | ![OctaCat](https://github.com/lirazootech/learn-github/blob/13f7473c547782275246e2b00c7f11f785a6285c/Octacat.PNG) |
 |:--:|
 | Issues são para rastrear informações e discussões, enquanto Pull Requests são para propor e revisar alterações no código. |
-
-### Criando e Gerenciando Wikis
-
-  A Wiki no GitHub é uma seção onde podemos hospedar documentação para o seu repositório. Ela permite que outras pessoas usem e contribuam com o projeto. Podemos usar a Wiki para compartilhar conteúdo detalhado sobre o nosso projeto, como instruções de uso, design ou princípios fundamentais. É uma maneira de fornecer informações mais extensas além do arquivo README.
-
-  Na aba "Wiki" no repositório cliquei em "Create the first page" e editei a página de Wiki usando Markdown. A visibilidade das Wikis segue a configuração de privacidade do repositório.
-
-| ![Wiki](https://github.com/lirazootech/learn-github/blob/c181d275746981b7aab96e49331d9d313127d489/Captura%209.PNG) |
-|:--:|
-| A priori adicionei uma informação sucinta apenas para demonstração. |
 
 ## 🚀 Resultados
 
