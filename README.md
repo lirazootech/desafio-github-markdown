@@ -91,9 +91,8 @@ Com a utilização de um Pull request para o fechamento de uma Issue criada ante
 
   A utilização da interface do GitHub acelera o processo de criação e desenvolvimento, com uma interface amigável possibilita uma organização visual pouco poluída, além de deixar disponível informações importantes do processo de desenvolvimento para um melhor controle de versão.
 
-| [![DIO]()]() |
+| [![DIO](https://github.com/lirazootech/desafio-github-markdown/blob/main/src/assets/Background_DIO.png)] |
 |:--:|
-| [![GitHub]() |
 | Este curso é oferecido pela DIO através da plataforma DIO.me com o objetivo de capacitar e inserir mais pessoas na tecnologia. |
 
   <p align="center">
