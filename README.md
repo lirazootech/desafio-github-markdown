@@ -39,14 +39,6 @@ Para realização desse desafio, eu utilizei a seguinte tecnologia:
 |:--:|
 ***A Issue foi fechada após a solicitação ser atendida!***
 
-**Issues (Problemas): Detalhes específicos, como bugs e melhorias.**
-
-- Úteis para rastrear detalhes específicos de um projeto, como relatórios de bugs, melhorias planejadas e feedback.
-- São específicos de um repositório e geralmente têm um proprietário claro.
-- Funcionam como um sistema de rastreamento de bugs do GitHub.
-- Permitem discussões específicas e ações concretas.
-- Podem ser fechados quando o problema é resolvido.
-
 ### Trabalhando com Pull Requests
 
   Na aba "Pull requests" cliquei em "New pull request" para criar uma nova solicitação Pull, selecionei a branch base (onde as mudanças foram integradas) e o branch compare (de onde as mudanças vêm). Então usei a branch criada anteriormente, no inicio do exercicio e cliquei em "Create pull request".
