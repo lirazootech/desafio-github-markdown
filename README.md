@@ -28,7 +28,7 @@ Para realização desse desafio, eu utilizei a seguinte tecnologia:
 
   Inicialmente criei um novo repositório, e como já visto não devemos fazer alterações direto na “main”, por tanto criei uma nova branch clicando na opção New branch (lado direito superior).
 
-  Na nova branch criada adicionei um novo 'arquivo.md' abrindo o codespace usando `.` na página do meu repositório. Já no CodeSpace eu adicionei um novo `arquivo.md` 
+  Na nova branch criada adicionei um novo 'arquivo.md' abrindo o GitHub.dev usando `.` na página do meu repositório. Já no GitHub.dev eu adicionei um novo `arquivo.md` 
 'Add file' e escrevi uma passagem do livro de Machado de Assis "Memórias Póstumas de Brás Cubas" como citação e realizei o commit push. Confira: <a href="https://github.com/lirazootech/desafio-github-markdown/blob/main/arquivo.md" target="_blank">arquivo.md</a>.
 
 ### Criando e gerenciando uma Issue:
