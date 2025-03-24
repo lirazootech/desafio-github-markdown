@@ -42,7 +42,7 @@ Com isso, o GitHub destaca-se como uma ferramenta essencial para o gerenciamento
 </p>
 
 <p align="center">
-  Este curso é oferecido pela Digital Inovation One através da plataforma <a href="https://web.dio.me/home">dio.me</a> com o objetivo de capacitar e inserir mais pessoas no mercado de tecnologia.
+  Este curso é oferecido pela Digital Inovation One através da plataforma <a href="https://web.dio.me/home">dio.me</a> com o objetivo de capacitar e inserir mais pessoas no mercado da tecnologia.
 </p>
 
 
