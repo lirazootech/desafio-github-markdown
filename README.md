@@ -2,7 +2,7 @@
 
 | ![OctaCat](https://github.com/lirazootech/learn-github/blob/13f7473c547782275246e2b00c7f11f785a6285c/Octacat.PNG) |
 |:--:|
-| Este repositório foi criado para aplicar os conhecimentos do curso Git-GitHub Foundations, com foco em “Collaboration Features” (Recursos de Colaboração). A atividade destaca o uso do GitHub como ferramenta de gerenciamento de projetos e da linguagem de marcação Markdown, promovendo a colaboração eficaz e a eficiência em equipes remotas. O desafio foi proposto pela @alinealien no curso de Formação GitHub - Foundations. |
+| Este repositório foi criado para aplicar os conhecimentos do curso Git-GitHub Foundations, com foco em “Collaboration Features” (Recursos de Colaboração). A atividade destaca o uso do GitHub como ferramenta de gerenciamento de projetos e da linguagem de marcação Markdown, promovendo a colaboração eficaz e a eficiência em equipes remotas. O desafio foi proposto pela [@alinealien](https://github.com/alinealien) no curso de Formação GitHub - Foundations. |
 
 ## 🎯 Conceito e abordagem:
 
