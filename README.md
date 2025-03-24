@@ -25,7 +25,7 @@ Para realização desse desafio, eu utilizei a seguinte tecnologia:
 
 ## 🧐 Processo de Criação
 
-Toda a execução deste projeto foi detalhada na documentação deste repositório. O material foi desenvolvido com o intuito de servir como referência e fonte de estudo para aqueles interessados em explorar as funcionalidades da plataforma GitHub. Confira os detalhes aqui: <a href="https://github.com/lirazootech/desafio-github-markdown/wiki/%F0%9F%93%9A-Git-&-GitHub-%E2%80%90-Explorando-recursos-de-Colabora%C3%A7%C3%A3o-e-Gest%C3%A3o-de-Projeto">Git & GitHub ‐ Explorando recursos de Colaboração e Gestão de Projetos</a>.
+Toda a execução deste projeto foi detalhada na documentação deste repositório. O material foi desenvolvido com o intuito de servir como referência e fonte de estudo para aqueles interessados em explorar as funcionalidades da plataforma GitHub. Confira os detalhes aqui: <a href="https://github.com/lirazootech/desafio-github-markdown/wiki/%F0%9F%93%9A-Git-&-GitHub-%E2%80%90-Explorando-recursos-de-Colabora%C3%A7%C3%A3o-e-Gest%C3%A3o-de-Projeto">Git & GitHub ‐ Explorando Recursos de Colaboração e Gestão de Projetos</a>.
 
 ## 🚀 Resultados
 
