@@ -16,7 +16,7 @@ O desafio visa consolidar o conhecimento apresentado em sala de aula, abordando 
 
 ## 🤖 Tecnologias Utilizadas:
 
-Para realização desse desafio, eu utilizei a seguinte tecnologia:
+Para realização desse desafio, eu utilizei as seguintes tecnologias:
 
 - **GitHub**
 - **Git**
